@@ -1,5 +1,7 @@
 # CMA项目文档
 
+代码库：[https://code.aliyun.com/lifetouch-frontend/cm-admin.git](https://code.aliyun.com/lifetouch-frontend/cm-admin.git)
+
 测试地址：[https://testing.hulacorp.com/lifetouch-admin/](https://testing.hulacorp.com/lifetouch-admin/)
 
 OP端测试地址：[http://testing.hulacorp.com/lifetouch-opra/](http://testing.hulacorp.com/lifetouch-opra/)
