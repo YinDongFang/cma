@@ -31,7 +31,7 @@ API 接口分为`CMA` `FPE` ~~`STORE`~~ `REPORT` `JQB_NODE`服务器，见`src/a
 ## 命令说明
 
 1. `serve`：运行本地测试 *
-2. `build`: 正式打包至生产环境
+2. `build`: 打包生产环境代码
 3. `analysis`: 项目分析，生成 stats.json 文件
 5. `deploy:testing`: 自动打包并部署到 testing 测试环境服务器 *
 
@@ -56,7 +56,7 @@ API 接口分为`CMA` `FPE` ~~`STORE`~~ `REPORT` `JQB_NODE`服务器，见`src/a
   /views                    // 视图层
 ```
 
-项目结构先分层，后分模块，`apis` `services` 原为一级扁平结构，分模块的`apis` `services`是本人接手后创建。
+项目结构先分层，后分模块，`apis` `services` 原为一级扁平结构，分模块的`apis` `services`是之后创建的。
 
 * `*.api.js` 文件无需手动引入`http` `CONTANT` `createApi` 模块，已经在`webpack`配置中自动引入。
 
