@@ -108,7 +108,7 @@ API 接口分为`CMA` `FPE` ~~`STORE`~~ `REPORT` `JQB_NODE`服务器，见`src/a
 
 路由查看文件定位，SVG文件预览等功能
 
-2. [i18n Ally](vscode:extension/antfu.i18n-ally) i18n 本地化插件
+2. [i18n Ally](vscode:extension/antfu.i18n-ally)
 
 推荐配置，支持识别路由中的`title`
 
@@ -121,7 +121,7 @@ API 接口分为`CMA` `FPE` ~~`STORE`~~ `REPORT` `JQB_NODE`服务器，见`src/a
 }
 ```
 
-3. [TODO Highlight](vscode:extension/wayou.vscode-todo-highlight) 提示高亮插件
+3. [TODO Highlight](vscode:extension/wayou.vscode-todo-highlight)
 
 推荐配置，添加`vue`文件支持
 
